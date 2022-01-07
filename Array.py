@@ -163,3 +163,7 @@ class LinkedList(object):
     
 
 #Induction and Recurison: http://www.cs.cornell.edu/courses/cs211/2004su/slides/Topic02.pdf
+
+#print "hello world"
+
+print("hello world")
