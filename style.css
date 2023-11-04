@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    z-index: 0;
+}
+
+#input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+input {
+    margin: 1vh;
+    z-index: 1;
+}
+
+h1, h4 {
+    text-align: center;
+    justify-content: center;
+    z-index: 1;
+}
+
